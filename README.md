@@ -1,7 +1,7 @@
 # widget
 
 
-In this page you everything you need to display the widget on a website.
+On this page you will find everything you need to display the widget on a website.
 
 
 The ul.html file shows an example of integration.
@@ -10,10 +10,10 @@ The ul.html file shows an example of integration.
 1) widgetfeedback_ul.css : Here are all styles of widget (colors , shapes, sizes , etc )
 
 
-2) widgetfeedback_ul.js : This part is all the logic for creaccion the widget and behavior.
-    Very important: The first few lines of the file are those that have to redefine :
+2) widgetfeedback_ul.js : This part is all the logic for creating the widget and its behavior.
+    Very important: The first few lines of the file are the ones you have to redefine:
         var user = "insert user id " ;
-        var page = "inset page id " ;
+        var page = "insert page id " ;
         var urlserverGlobal = "insert urlserver";
 
 
